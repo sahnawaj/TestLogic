@@ -14,7 +14,6 @@
     if(self){
         root = NULL;
         int array[7] = { 27, 14, 35, 10, 19, 31, 42 };
-        NSLog(@"%@");
         NSLog(@"ORA HI ORAHI ORAHI RUKJANA NAHI LAST BRANCG");
     }
     return self;
