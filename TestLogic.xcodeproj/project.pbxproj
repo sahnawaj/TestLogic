@@ -12,7 +12,6 @@
 		8B0589731E7AA52D001E0032 /* SimpleLogic.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B0589721E7AA52D001E0032 /* SimpleLogic.m */; };
 		8BEBD02B1E77025400AB9C63 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BEBD02A1E77025400AB9C63 /* main.m */; };
 		8BEBD02E1E77025400AB9C63 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BEBD02D1E77025400AB9C63 /* AppDelegate.m */; };
-		8BEBD0311E77025400AB9C63 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BEBD0301E77025400AB9C63 /* ViewController.m */; };
 		8BEBD0341E77025400AB9C63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BEBD0321E77025400AB9C63 /* Main.storyboard */; };
 		8BEBD0371E77025400AB9C63 /* TestLogic.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8BEBD0351E77025400AB9C63 /* TestLogic.xcdatamodeld */; };
 		8BEBD0391E77025400AB9C63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BEBD0381E77025400AB9C63 /* Assets.xcassets */; };
@@ -32,7 +31,6 @@
 		8BEBD02C1E77025400AB9C63 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8BEBD02D1E77025400AB9C63 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		8BEBD02F1E77025400AB9C63 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		8BEBD0301E77025400AB9C63 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		8BEBD0331E77025400AB9C63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8BEBD0361E77025400AB9C63 /* TestLogic.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TestLogic.xcdatamodel; sourceTree = "<group>"; };
 		8BEBD0381E77025400AB9C63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -114,7 +112,6 @@
 				8BEBD02C1E77025400AB9C63 /* AppDelegate.h */,
 				8BEBD02D1E77025400AB9C63 /* AppDelegate.m */,
 				8BEBD02F1E77025400AB9C63 /* ViewController.h */,
-				8BEBD0301E77025400AB9C63 /* ViewController.m */,
 				8BEBD0321E77025400AB9C63 /* Main.storyboard */,
 				8BEBD0381E77025400AB9C63 /* Assets.xcassets */,
 				8BEBD03A1E77025500AB9C63 /* LaunchScreen.storyboard */,
@@ -216,7 +213,6 @@
 			files = (
 				8B0589731E7AA52D001E0032 /* SimpleLogic.m in Sources */,
 				8BEBD0371E77025400AB9C63 /* TestLogic.xcdatamodeld in Sources */,
-				8BEBD0311E77025400AB9C63 /* ViewController.m in Sources */,
 				8BEBD02E1E77025400AB9C63 /* AppDelegate.m in Sources */,
 				8BEBD02B1E77025400AB9C63 /* main.m in Sources */,
 				8B05896B1E7A5536001E0032 /* SortStringArray.m in Sources */,
